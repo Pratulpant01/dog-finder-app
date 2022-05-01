@@ -1,0 +1,4 @@
+#Mon May 02 00:31:11 IST 2022
+base.0=/Users/pratulpant/Flutter Code/Dog Finder/dogfinder/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
